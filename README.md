@@ -1,4 +1,4 @@
-# <h3 style="color:red;">linlk Free URL shortener to create perfect URLs for your business</h3>
+# linlk Free URL shortener to create perfect URLs for your business
 
 One short link, infinite possibilities.
 A short link is a powerful marketing tool when you use it carefully. It is not just a link but a medium between your customer and their destination. A short link allows you to collect so much data about your customers and their behaviors.
