@@ -52,3 +52,5 @@ Use our powerful API to build custom applications or extend your own application
 Start your marketing campaign now and reach your customers efficiently. https://linlk.me/user/register
 
 Website link: https://linlk.me/
+
+<img src="https://cdn.discordapp.com/attachments/563319670975758366/873619408961036358/unknown.png">
